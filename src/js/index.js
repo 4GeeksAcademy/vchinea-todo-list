@@ -3,7 +3,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 
 // include your styles into the webpack bundle
-import "TodoList.css";
+import "../styles/TodoList.css";
 
 //import your own components
 import Home from "./component/home.jsx";
